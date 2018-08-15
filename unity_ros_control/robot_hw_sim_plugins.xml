@@ -1,0 +1,8 @@
+<library path="lib/libdefault_robot_hw_sim">
+
+  <class
+    name="unity_ros_control/DefaultRobotHWSim"
+    type="unity_ros_control::DefaultRobotHWSim"
+    base_class_type="unity_ros_control::RobotHWSim">
+  </class>
+</library>
